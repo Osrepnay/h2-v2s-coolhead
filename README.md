@@ -4,6 +4,7 @@
 ![cad screenshot](cad_screenshot.png)
 
 [cad link](https://cad.onshape.com/documents/de9893fea101ddbb259c53bb/w/14a457677c58ecbb5b3d4857/e/d87e13b2c981aecff97c0c8d?renderMode=0&uiState=6a505e7716edb42ddf895db0)
+[stardance link (it's just JOURNAL.md, I started here first and was too lazy to port)](https://stardance.hackclub.com/projects/19029)
 
 I've been meaning to upgrade my Ender 3's printhead,
 but then someone gave me a BIQU H2 V2S and BLTouch they weren't using,
