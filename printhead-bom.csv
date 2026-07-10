@@ -1,0 +1,18 @@
+Item Name,Qty,Price (total) (USD),Item link,Notes
+BIQU H2 V2S,1,$79.69,https://biqu.equipment/products/biqu-h2-v2s-extruder-for-b1-bx-ender-3-3-v2-5-6-cr6-10,"US warehouse price, obtained for free"
+BLTouch,1,$29.98,https://3dprinteruniverse.com/products/antclabs-bltouch-auto-bed-leveling-sensor,"I got one for free, original but BLTouch prices are all over the place. You could probably get a clone and be fine if the mounting is the same."
+GDSTime 5015 fans,2,$19.99,https://www.amazon.com/dp/B0DN6DT2S8,
+22awg wire,1,$7.88,https://www.amazon.com/dp/B08F7BMVJW,
+JST-XH splitter,1,$4.99,https://www.amazon.com/dp/B0GV41FVN3,
+JST-PH crimp sockets,6,$0.04,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SPH-001T-P0-5L/27687540,Minimum order quantity of 100 on DigiKey
+JST-XH extension,2,$1.88,https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5497/16680577,
+JST-PH 6-pin housing,1,$0.16,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/PHR-6/608604,
+JST-XH 4-pin housing,1,$0.16,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/XHP-4/683353,
+JST-XH crimp socket,4,$0.15,https://www.digikey.ca/en/products/detail/jst-sales-america-inc/BXH-001T-P0-6/7423881,
+offbrand JST-XH 5-pin housing,1,$0.16,https://www.digikey.ca/en/products/detail/adam-tech/25CH-B-05/9830464,Official was out of stock :(
+Mini-PV (Dupont) pin,5,$0.33,https://www.digikey.ca/en/products/detail/amphenol-cs-fci/75653-005LF/1487453,
+Mini-PV (Dupont) 2-pin housing,1,$1.28,https://www.digikey.ca/en/products/detail/amphenol-cs-fci/65039-035LF/1002656,
+Mini-PV (Dupont) 3-pin housing,1,$0.42,https://www.digikey.ca/en/products/detail/amphenol-cs-fci/65039-034ELF/4272533,
+Assorted M3 hardware,1,$7.84,https://www.amazon.com/dp/B0FQJQNHF5,
+Total Price (USD):,$178.79,,,
+"you'll also need a crimper+wire strippers unless you go premade-cables route, which is probably cheaper if you don't have one already",,,,
